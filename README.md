@@ -1,1 +1,1 @@
-# FinFormer-Custom-Transformer-for-Financial-Sentiment
+# FinFormer: Custom Transformer for Financial Sentiment
